@@ -91,4 +91,21 @@ li {
     #burger-menu {
         display: none;
     }
+    .hero{
+        display: flex;
+        padding:1rem;
+    }
+    .hero-info{
+        padding: 1rem;
+    }
+    .hero-info-block {
+        display: block;
+    }
+    #hero-buttons{
+    justify-content: flex-start;
+}
+#hero-img{
+    width: 375px;
+}
+
 } 
